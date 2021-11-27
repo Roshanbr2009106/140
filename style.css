@@ -1,0 +1,39 @@
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    line-height: 4px;
+
+}
+.heading  button{
+    border: 2px solid blue;
+    float: right;
+}
+.heading h3{
+   display:inline; 
+}
+.modal-dialog{
+  width: 70%; 
+
+}
+.modal-body{
+    font-size: 20px;
+    color: black;
+    text-align: left;
+}
+canvas{
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px gold;
+}
+.footer_1{
+    
+    width: 100%;
+    background-color: rgb(139, 113, 211);
+    text-align: center;
+    box-shadow: 5px 5px 5px yellow;
+    bottom: 0;
+    position: fixed;
+    line-height: 2;
+   
+}
